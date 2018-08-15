@@ -1,24 +1,7 @@
-# README
+Version de ruby 5.2.1
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Création du css d'une page de profil appliqué une application rails. Ce projet est réalisé dans le cadre de la formation The Hacking Projet.
 
-Things you may want to cover:
+Le push sur heroku a avorté. Impossible de faire la precompile...
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
