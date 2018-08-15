@@ -16,7 +16,7 @@
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 
 
-body {
+.body {
   background: linear-gradient(to right, #bdc3c7, #2c3e50);
   margin: 0;
   font-family: 'Indie Flower', cursive;
