@@ -1,0 +1,27 @@
+.tabs{
+  text-align: right;
+  margin: auto;
+  float: center;
+  overflow: hidden;
+  background-color: rgb(76, 196, 217);
+  width: 40%;
+  border-radius: 15px;
+}
+
+
+.tab button {
+    color: white;
+    font-size: 24px;
+    background-color: inherit;
+    float: center;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+.tab button:hover {
+    background-color: #191654;
+    border-radius: 13px;
+}

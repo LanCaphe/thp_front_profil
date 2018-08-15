@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+  <meta charset="UTF-8">
+  <title> Superchien, gourou des licornes </title>
+  <%=stylesheet_link_tag "components"%>
+</head>
+
+<body>
+<!--La navbar-->
+  <header>
+    <div class="navbar">
+      <div class="id_site">
+        <%= img_tag 'licorne.jpg' %> Le cercle des licornes
+        <div class="liens_nav">
+          <a href="lien"> I am</a>
+          <a href="lien"> a super</a>
+          <a href="lien"> Unicorn</a>
+        </div>
+      </div>
+    <span class="avatar_little"><%= img_tag 'superdog.jpg'%></span>
+    </div>
+  </header>
+<!--la tabs-->
+
+  <div class="tabs">
+   <button class="tab"> Ma messagerie</button>
+   <button class="tab"> Mes licornes</button>
+   <button class="tab"> Mes amis </button>
+  </div>
+
+<!--les cards-->>
+<div class="card-container">
+       <div class="card_profil">
+           <span class="avatar_big"<%= img_tag 'surperdog.jpg'%>
+           <button class="btn-blue"> Editer mon profil</button>
+           <button class="btn-blue"> Editer mon profil</button>
+       </div>
+       <div class="card_info">
+         <div class "card_tag"> #cute</div>
+         <div class="card_description">
+           <div class="card_title"><h3>Super Chien</h3></div>
+           <p>Dresseur de licornes et skater débutant</p>
+        </div>
+      </div>
+</div>
+</body>
+</html>

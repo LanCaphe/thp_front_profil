@@ -1,0 +1,26 @@
+.navbar {
+    background: linear-gradient(to right, green, rgba(0,255,0,0));
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.id_site{
+  font-size: x-large;
+  color: rgb(70, 226, 142)
+
+}
+
+.liens_nav{
+  font-size: large;
+  font-weight: bold;
+  color: rgb(73, 126, 228)
+}
+.liens_nav :hover{
+  font-size: large;
+  color: rgb(45, 22, 185)
+  font-style: italic;
+  font-decoration: underline
+}
+.
