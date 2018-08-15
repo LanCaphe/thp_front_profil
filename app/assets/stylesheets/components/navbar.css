@@ -19,7 +19,7 @@
 }
 .liens_nav :hover{
   font-size: 30px;
-  color: rgb(45, 22, 185)
+  color: rgb(45, 22, 185);
   font-style: italic;
   font-decoration: underline
 }
