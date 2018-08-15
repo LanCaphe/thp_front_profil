@@ -7,18 +7,18 @@
 }
 
 .id_site{
-  font-size: x-large;
+  font-size: 50px;
   color: rgb(70, 226, 142)
 
 }
 
 .liens_nav{
-  font-size: large;
+  font-size: 30px;
   font-weight: bold;
   color: rgb(73, 126, 228)
 }
 .liens_nav :hover{
-  font-size: large;
+  font-size: 30px;
   color: rgb(45, 22, 185)
   font-style: italic;
   font-decoration: underline
